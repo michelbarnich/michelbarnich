@@ -1,5 +1,5 @@
 ### About Me
-I'm 20 years old and interested in Cyber Security.
+I'm 20 years old and interested in Cyber Security. All my projects focus on privacy, ease of use and being free for ever.
 
 ### Projects
 - [Detector](https://github.com/michelbarnich/Detector) - An iOS 9 and higher malware and Jailbreak detection tool.
