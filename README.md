@@ -1,5 +1,5 @@
 ### About Me
-I'm 20 years old and interested in Cyber Security. All my projects focus on privacy, ease of use and being free for ever.
+I'm 21 years old and interested in Cyber Security. All my projects focus on privacy, ease of use and being free for ever.
 
 ### Projects
 - [Cypher](https://github.com/michelbarnich/cypher) - An opensource, blockchain based Live-Messenger and Cryptocurrency!
